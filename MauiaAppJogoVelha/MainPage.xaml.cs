@@ -216,6 +216,7 @@
 
         private void limpar()
         {
+            cont = 0;   
             btn10.Text = "";
             btn11.Text = "";
             btn12.Text = "";
